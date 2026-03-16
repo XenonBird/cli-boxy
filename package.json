@@ -16,8 +16,16 @@
     "unicode",
     "ansi"
   ],
-  "author": "",
+  "author": "XenonBird",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XenonBird/cli-boxy.git"
+  },
+  "homepage": "https://github.com/XenonBird/cli-boxy#readme",
+  "bugs": {
+    "url": "https://github.com/XenonBird/cli-boxy/issues"
+  },
   "engines": {
     "node": ">=14"
   }
