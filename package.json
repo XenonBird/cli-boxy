@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/XenonBird/cli-boxy.git"
+    "url": "git+https://github.com/XenonBird/cli-boxy.git"
   },
   "homepage": "https://github.com/XenonBird/cli-boxy#readme",
   "bugs": {

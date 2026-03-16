@@ -1,0 +1,9 @@
+# Don't publish test or dev files
+test.js
+examples.js
+.gitignore
+
+# Common noise
+node_modules/
+*.log
+.DS_Store
