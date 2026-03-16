@@ -1,6 +1,6 @@
 {
   "name": "cli-boxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The simplest zero-dependency CLI box-drawing package with advanced alignment, styles, and colors",
   "main": "src/index.js",
   "scripts": {
